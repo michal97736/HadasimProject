@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D36sj3TIuNvQPWPyUC0FVtMZU5kvBKoizuX3mbsF463TnNW+losja4iBG8MyNHCNXYZMajFx3kK+S4lcWCvKlg==",
+  "dgSpecHash": "77WZNRqXGkwLKvc6zfky5w+adFYcInV25qwgDC1dM/Vf0iCWEW9NDCAlX2UPJqYBPoAUfhP2mrjDdIwKD5KynQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\גליק\\Desktop\\HadasimCovid.WebApi\\HadasimCovid.Service\\HadasimCovid.Service.csproj",
+  "projectFilePath": "C:\\Users\\גליק\\Desktop\\Hadasim\\#1\\HadasimCovid.WebApi\\HadasimCovid.Service\\HadasimCovid.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\גליק\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\גליק\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

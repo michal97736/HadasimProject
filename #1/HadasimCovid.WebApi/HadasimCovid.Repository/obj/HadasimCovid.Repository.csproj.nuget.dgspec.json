@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\גליק\\Desktop\\HadasimCovid.WebApi\\HadasimCovid.Repository\\HadasimCovid.Repository.csproj": {}
+    "C:\\Users\\גליק\\Desktop\\Hadasim\\#1\\HadasimCovid.WebApi\\HadasimCovid.Repository\\HadasimCovid.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\גליק\\Desktop\\HadasimCovid.WebApi\\HadasimCovid.Repository\\HadasimCovid.Repository.csproj": {
+    "C:\\Users\\גליק\\Desktop\\Hadasim\\#1\\HadasimCovid.WebApi\\HadasimCovid.Repository\\HadasimCovid.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\גליק\\Desktop\\HadasimCovid.WebApi\\HadasimCovid.Repository\\HadasimCovid.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\גליק\\Desktop\\Hadasim\\#1\\HadasimCovid.WebApi\\HadasimCovid.Repository\\HadasimCovid.Repository.csproj",
         "projectName": "HadasimCovid.Repository",
-        "projectPath": "C:\\Users\\גליק\\Desktop\\HadasimCovid.WebApi\\HadasimCovid.Repository\\HadasimCovid.Repository.csproj",
+        "projectPath": "C:\\Users\\גליק\\Desktop\\Hadasim\\#1\\HadasimCovid.WebApi\\HadasimCovid.Repository\\HadasimCovid.Repository.csproj",
         "packagesPath": "C:\\Users\\גליק\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\גליק\\Desktop\\HadasimCovid.WebApi\\HadasimCovid.Repository\\obj\\",
+        "outputPath": "C:\\Users\\גליק\\Desktop\\Hadasim\\#1\\HadasimCovid.WebApi\\HadasimCovid.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

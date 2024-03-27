@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QuvXZrWI5ne3OHxFFLLyYQo5lOhBmLm0IsJ+/biOFAAQ531ag2nJ76iJxXm07P0Pkk+5lLdT/Epihagodmd9HQ==",
+  "dgSpecHash": "qohKaF4R+JSDeq1PgLuQvJucfse8YLEdI/ncFSXi7IEQIDcqN/DPulnkBUuS/aX/tEPgDYCe7oETeR6EzESWnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\גליק\\Desktop\\HadasimCovid.WebApi\\HadasimCovid.WebApi\\HadasimCovid.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\גליק\\Desktop\\Hadasim\\#1\\HadasimCovid.WebApi\\HadasimCovid.WebApi\\HadasimCovid.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\גליק\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\גליק\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
