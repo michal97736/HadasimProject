@@ -1,5 +1,5 @@
 # HadasimProject
-This repository contains three distinct missions, each addressing different objectives. These missions are united in one repository for organizational and management purposes. Below is a brief overview of each mission:
+This repository contains three distinct missions, each addressing different objectives. These missions are united in one repository for organizational and management purposes.Each mission is organized within its own directory in the repository, with clear documentation and code structure for easy navigation and understanding. Below is a brief overview of each mission:
 
 # Project #1:  CovidProject
 This full-stack project aims to manage the health fund system, incorporating comprehensive data tracking for COVID-19 and vaccination records of members. Built with server-side technologies in C# .NET Core and a client-side Angular framework, the system provides a robust platform for healthcare management and data analysis.
@@ -21,9 +21,6 @@ Users can Simply execute the program and follow the prompts to interact with the
 This project explores an open-ended inquiry into the functionality of an air conditioner's remote control. It delves into the intricate process of users pressing a button on the remote control and observing its impact on the air conditioner. The project meticulously examines both the electrical aspects and the communication dynamics involved in this interaction.
 
 
-Description: [Brief description of the third mission and its objectives.]
-Technologies Used: [List of technologies used in Mission 3.]
 
 
 
-Each mission is organized within its own directory in the repository, with clear documentation and code structure for easy navigation and understanding
